@@ -1,0 +1,8 @@
+{
+  "packages": [
+    "packages/another-app",
+    "packages/my-app-with-api"
+  ],
+  "version": "independent",
+  "npmClient": "yarn"
+}

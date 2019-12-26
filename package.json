@@ -1,0 +1,11 @@
+{
+  "name": "poc-cra-with-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:luistak/poc-cra-with-api.git",
+  "author": "Luis <takahashihideki408@gmail.com>",
+  "devDependencies": {
+    "lerna": "^3.19.0",
+    "typescript": "^3.7.4"
+  }
+}
